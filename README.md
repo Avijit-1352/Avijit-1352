@@ -40,4 +40,4 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avijit-1352&layout=compact&theme=react&count_private=false" />
 
-![Niloy's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=avijit-1352&theme=vision-friendly-dark)
+<!-- ![Avijit s GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=avijit-1352&theme=vision-friendly-dark) -->
